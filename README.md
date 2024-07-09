@@ -9,7 +9,8 @@ These are my skills 😊:
 
 * Java backend programming (Yes, that coffee I drink as well)
 * Scripting with Python, Bash and JavaScript
-* Web-frontend development with JavaScript, TypeScript, PHP, CSS and HTML (Most time thinking react)
+* Web-frontend development with JavaScript, TypeScript, PHP, CSS and HTML (Most time *Thinking in React*)
 * Native speaking C, C++ and some obscure assembler dialects 👾
 * Embedded application and operating system development 📟
-* Linux administration 🐧 (As like Darth Vader would say, I am your sudoer)
+* Linux administration 🐧 (As like Darth Vader would say, *I am your sudoer*)
+* Debugging and testing (Think it's not a secret that *programmers spend more time debugging then writing code*)
