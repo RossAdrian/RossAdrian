@@ -14,3 +14,8 @@ These are my skills 😊:
 * Embedded application and operating system development 📟
 * Linux administration 🐧 (As like Darth Vader would say, *I am your sudoer*)
 * Debugging and testing (Think it's not a secret that *programmers spend more time debugging then writing code*)
+
+<!--freelancermap-Badge Dark Blue-->
+<a href="https://www.freelancermap.de/profil/adrian-ross" target="_blank" title="Profil von Adrian Roß auf www.freelancermap.de">
+    <img loading="lazy" style="width:118px; height:24px" src="https://www.freelancermap.de/images/widgets/dashboard/fm-profile-badge-yankee.svg">
+</a>
